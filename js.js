@@ -1,6 +1,6 @@
 (function() {
 
-	var MAX = 2;
+	var MAX = 8;
 	var DUR = 4;
 	var SEP = '    |   ';
 	var NTS = [ {dur: DUR}, {dur: DUR/2}, {dur: DUR/4} ];
